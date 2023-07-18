@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto foi feito com o propósito de estudar posicionamento com CSS, semântica, boas práticas e performance para o site. O intuito desse site era ser usado como portfólio real.
 
-- [Acesse o projeto finalizado, online](https://marcio-s.github.io/Lobo/)
+- [Acesse o projeto finalizado, online](https://marcio-s.github.io/Lobo-Portfolio/)
 
 
 ## 🔖 Layout
